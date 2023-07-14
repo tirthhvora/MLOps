@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/db286d5159f040df8f7e62c95250fef9/artifacts
+end_time: 1689350728803
+entry_point_name: ''
+experiment_id: '574852059910187585'
+lifecycle_stage: active
+run_id: db286d5159f040df8f7e62c95250fef9
+run_name: stately-swan-262
+run_uuid: db286d5159f040df8f7e62c95250fef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689350723608
+status: 3
+tags: []
+user_id: hp India

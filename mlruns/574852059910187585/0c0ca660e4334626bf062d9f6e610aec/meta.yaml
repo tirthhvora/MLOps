@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/0c0ca660e4334626bf062d9f6e610aec/artifacts
+end_time: 1689350550919
+entry_point_name: ''
+experiment_id: '574852059910187585'
+lifecycle_stage: active
+run_id: 0c0ca660e4334626bf062d9f6e610aec
+run_name: beautiful-goat-793
+run_uuid: 0c0ca660e4334626bf062d9f6e610aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689350544313
+status: 3
+tags: []
+user_id: hp India
