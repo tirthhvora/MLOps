@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/60776f8e82c84f8fba8f7dbfa1d3ddcc/artifacts
+end_time: 1689393536366
+entry_point_name: ''
+experiment_id: '574852059910187585'
+lifecycle_stage: active
+run_id: 60776f8e82c84f8fba8f7dbfa1d3ddcc
+run_name: painted-wren-82
+run_uuid: 60776f8e82c84f8fba8f7dbfa1d3ddcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689393533474
+status: 3
+tags: []
+user_id: hp India

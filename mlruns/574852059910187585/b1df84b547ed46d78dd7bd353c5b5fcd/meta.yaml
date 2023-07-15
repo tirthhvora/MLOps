@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/b1df84b547ed46d78dd7bd353c5b5fcd/artifacts
+deleted_time: 1689393322260
 end_time: 1689350699526
 entry_point_name: ''
 experiment_id: '574852059910187585'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b1df84b547ed46d78dd7bd353c5b5fcd
 run_name: bittersweet-lark-828
 run_uuid: b1df84b547ed46d78dd7bd353c5b5fcd

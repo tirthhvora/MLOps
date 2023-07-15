@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/b59a2db887814653a2cfc0b339450a62/artifacts
+end_time: 1689392539197
+entry_point_name: ''
+experiment_id: '574852059910187585'
+lifecycle_stage: active
+run_id: b59a2db887814653a2cfc0b339450a62
+run_name: calm-ape-152
+run_uuid: b59a2db887814653a2cfc0b339450a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689392530242
+status: 3
+tags: []
+user_id: hp India

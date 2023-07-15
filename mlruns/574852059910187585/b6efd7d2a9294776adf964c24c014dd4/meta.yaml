@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/574852059910187585/b6efd7d2a9294776adf964c24c014dd4/artifacts
+deleted_time: 1689393556183
 end_time: 1689350317338
 entry_point_name: ''
 experiment_id: '574852059910187585'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b6efd7d2a9294776adf964c24c014dd4
 run_name: dashing-horse-463
 run_uuid: b6efd7d2a9294776adf964c24c014dd4

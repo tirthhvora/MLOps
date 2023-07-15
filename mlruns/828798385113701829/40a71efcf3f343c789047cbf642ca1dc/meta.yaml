@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/hp%20India/Deployed%20Projects/MLops/mlruns/828798385113701829/40a71efcf3f343c789047cbf642ca1dc/artifacts
+deleted_time: 1689351965645
 end_time: 1689350106354
 entry_point_name: ''
 experiment_id: '828798385113701829'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 40a71efcf3f343c789047cbf642ca1dc
 run_name: selective-mink-978
 run_uuid: 40a71efcf3f343c789047cbf642ca1dc
